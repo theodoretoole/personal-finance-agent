@@ -62,7 +62,7 @@ A **Ruby on Rails** web app that connects to your bank accounts via the **Plaid 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/OpenAgents-Illinois/personal-finance-agent.git
+git clone https://github.com/theodoretoole/personal-finance-agent.git
 cd personal-finance-agent
 ```
 
